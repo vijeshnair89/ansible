@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:latest
 
 # Update the repository sources list
 RUN apt update -y
